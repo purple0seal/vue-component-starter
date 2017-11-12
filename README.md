@@ -1,1 +1,1 @@
-# vue-component-starter
+# vue-component
